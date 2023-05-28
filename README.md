@@ -40,15 +40,16 @@ NextJS / TailwindCSS / Xata / AuthJS / OpenAI API / ExpressJS / Cron Jobs / Verc
 
 
 #### Sample Notifications (with AI-powered gift recommendations) sent at 12 AM on the day of the event:
-<img width="1128" alt="image" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1685273226/githubnovu/Screenshot_2023-05-28_at_4.54.33_PM_dinpae.png">
+<img width="1128" alt="image" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1685273226/githubnovu/Screenshot_2023-05-28_at_4.55.50_PM_fjgbiz.png">
+<img width="1128" alt="image" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1685273685/githubnovu/Screenshot_2023-05-28_at_5.04.41_PM_lglpgf.png">
 
-<img width="1128" alt="image" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1685273625/githubnovu/Screenshot_2023-05-28_at_5.03.40_PM_eaiaqy.png">
 
 
 #### Sample Notifications (with AI-powered gift recommendations) sent when user requests it from dashboard:
-<img width="1128" alt="image" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1685273226/githubnovu/Screenshot_2023-05-28_at_4.55.50_PM_fjgbiz.png">
+<img width="1128" alt="image" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1685273226/githubnovu/Screenshot_2023-05-28_at_4.54.33_PM_dinpae.png">
 
-<img width="1128" alt="image" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1685273685/githubnovu/Screenshot_2023-05-28_at_5.04.41_PM_lglpgf.png">
+
+<img width="1128" alt="image" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1685273625/githubnovu/Screenshot_2023-05-28_at_5.03.40_PM_eaiaqy.png">
 
 
 
