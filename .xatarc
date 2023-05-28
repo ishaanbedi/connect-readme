@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Ishaan-Bedi-s-workspace-tbb9k6.eu-west-1.xata.sh/db/specialdayz",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

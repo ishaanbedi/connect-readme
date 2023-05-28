@@ -8,24 +8,67 @@
 The ultimate service for managing multi-channel notifications with a single API.
 </div>
 
-<h3>Your Topic</h3>
-<p>Description</p>
+<h3>A notification system that sends alerts for important dates such as birthdays or anniversaries, with personalized content or gift recommendations.
+</h3>
+<p>
+Special Dayz is a full-stack application that allows users to create and manage special days for their friends and family. Users can create special days for their friends and family and receive notifications when those special days are happening, with proper in-app and email notifications. These notifications include AI-powered gift recommendations based on the interests of the person celebrating the special day. Additionally, users have the ability to manually trigger email notifications with AI-powered gift recommendations for their friends and family at any time.
+</p>
 
 <h3>Technologies being used</h3>
-<p>NextJS / Python / Laravel / NestJS, anything you can to help us bring the right people to test the project</p>
+<p>
+NextJS / TailwindCSS / Xata / AuthJS / OpenAI API / ExpressJS / Cron Jobs / Vercel
+</p>
 
 <h3>App Link</h3>
-<p>If there is</p>
+<p>specialdayz.ishn.xyz</p>
 
-<h3>Screenshoot</h3>
-<img width="1128" alt="image" src="https://user-images.githubusercontent.com/100117126/235352769-56544ab6-8b0d-47f9-8788-e363c692a594.png">
+<h3>Screenshots:</h3>
+
+#### Landing Page
+<img width="1128" alt="image" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1685273226/githubnovu/Screenshot_2023-05-28_at_4.51.57_PM_hgq09p.png">
+
+#### Adding a new contact:
+<img width="1128" alt="image" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1685273225/githubnovu/Screenshot_2023-05-28_at_4.52.48_PM_n8vdmo.png">
+
+
+#### Contacts Dashboard:
+<img width="1128" alt="image" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1685273228/githubnovu/Screenshot_2023-05-28_at_4.53.36_PM_yus23p.png">
+
+
+#### AI Dashboard:
+<img width="1128" alt="image" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1685273262/githubnovu/Screenshot_2023-05-28_at_4.57.35_PM_brd1pj.png">
+
+
+#### Sample Notifications (with AI-powered gift recommendations) sent at 12 AM on the day of the event:
+<img width="1128" alt="image" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1685273226/githubnovu/Screenshot_2023-05-28_at_4.54.33_PM_dinpae.png">
+
+<img width="1128" alt="image" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1685273625/githubnovu/Screenshot_2023-05-28_at_5.03.40_PM_eaiaqy.png">
+
+
+#### Sample Notifications (with AI-powered gift recommendations) sent when user requests it from dashboard:
+<img width="1128" alt="image" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1685273226/githubnovu/Screenshot_2023-05-28_at_4.55.50_PM_fjgbiz.png">
+
+<img width="1128" alt="image" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1685273685/githubnovu/Screenshot_2023-05-28_at_5.04.41_PM_lglpgf.png">
+
+
+
+
 
 <h3>Description</h3>
-<p>Explain what you have build in the most detailed way</p>
+<p>
+Special Dayz is a full-stack application that allows users to create and manage special days for their friends and family. 
+
+Users can create special days for their friends and family and receive notifications when those special days are happening, with proper in-app and email notifications. 
+
+These notifications include AI-powered gift recommendations based on the interests of the person celebrating the special day. 
+
+Additionally, users have the ability to manually trigger email notifications with AI-powered gift recommendations for their friends and family at any time.
+
+</p>
 
 
 <h3>Who are you?</h3>
-<p>Give us your best description who are you, and why you have decided to build this project</p>
+<p>
+Ishaan Bedi, a 20 year-old student from Delhi, India. I am a self-taught full-stack developer.
+</p>
 
-<h3>Additional Resources/Info</h3>
-<p>If you have</p>
