@@ -75,3 +75,7 @@ Additionally, users have the ability to manually trigger email notifications wit
 Ishaan Bedi, a 20 year-old student from Delhi, India. I am a self-taught full-stack developer.
 </p>
 
+<h3>Additional Resources</h3>
+The backend project is linked to this project as a submodule. The backend project can be found <a href="https://github.com/ishaanbedi/specialdayz_backend" target="_blank">
+here
+</a>!
