@@ -20,7 +20,9 @@ NextJS / TailwindCSS / Xata / AuthJS / OpenAI API / ExpressJS / Cron Jobs / Verc
 </p>
 
 <h3>App Link</h3>
-<p>specialdayz.ishn.xyz</p>
+<p>
+https://specialdayz.ishn.xyz
+</p>
 
 <h3>Screenshots:</h3>
 
