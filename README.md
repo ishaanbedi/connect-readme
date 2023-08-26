@@ -21,7 +21,7 @@ NextJS / TailwindCSS / Xata / AuthJS / OpenAI API / ExpressJS / Cron Jobs / Verc
 
 <h3>App Link</h3>
 <p>
-https://specialdayz.ishn.xyz
+https://specialdayz.vercel.app
 </p>
 
 <h4>Video Demo:</h4>
